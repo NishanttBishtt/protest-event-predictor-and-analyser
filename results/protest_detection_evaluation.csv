@@ -1,0 +1,16 @@
+tweet,label,predicted_label,event_probability
+Thousands gathered to protest against the government's new policy.,1,1,0.9128
+Students are organising a demonstration outside the university tomorrow.,1,0,0.2414
+Workers are planning a march demanding higher wages.,1,1,0.5945
+Residents gathered outside city hall demanding justice.,1,1,0.7773
+Farmers announced a nationwide protest next Monday.,1,1,0.9772
+Activists blocked the highway during a demonstration.,1,1,0.5041
+Thousands joined a rally against rising fuel prices.,1,1,0.6827
+Employees went on strike demanding better working conditions.,1,0,0.2806
+Bitcoin prices increased significantly this morning.,0,0,0.0474
+Enjoy 50 percent off on all products. Shop now!,0,0,0.1196
+The company announced its quarterly financial results.,0,0,0.1031
+Heavy rainfall is expected across northern India.,0,1,0.7463
+The university announced its examination schedule.,0,0,0.186
+A new smartphone was launched today.,0,0,0.1282
+The cricket team won its final match.,0,0,0.0164

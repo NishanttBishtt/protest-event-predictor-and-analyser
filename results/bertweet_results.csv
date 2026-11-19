@@ -1,0 +1,5 @@
+Entity,Precision,Recall,F1
+people,0.0,0.0,0.0
+organisations,0.0,0.0,0.0
+groups,0.1111,0.0455,0.0645
+locations,0.5217,0.4444,0.48

@@ -1,0 +1,40 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Raw datasets
+data/raw/
+
+# External data and generated databases
+data/external/
+
+# Large processed research datasets
+data/processed/combined_forecasting_data.csv
+data/processed/combined_forecasting_features.csv
+data/processed/dipd_detection.csv
+data/processed/gcut_daily_features_2014.csv
+data/processed/gcut_daily_features_2015.csv
+data/processed/gcut_daily_features_2016.csv
+data/processed/gcut_daily_features_2017.csv
+data/processed/gcut_daily_features_2018.csv
+data/processed/gcut_daily_features_2019.csv
+data/processed/gcut_daily_features_2014_2019.csv
+
+# Research repository local contents
+civil-unrest-case-study/
+
+models/protest_model_combined.joblib
+models/protest_model_historical.joblib
+JHU-CUT/
+
+# Experimental models not required by the app
+models/protest_model_combined.joblib
+models/protest_model_historical.joblib
+
+# Nested dataset repository
+JHU-CUT/
